@@ -1,1 +1,2 @@
-# w25-lab08-Stock-Datasets
+# Stock Datasets
+Stock datasets for AAPL and GOOG
